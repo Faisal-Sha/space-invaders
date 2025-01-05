@@ -1,6 +1,6 @@
 # SPACE INVADERS
 > Taken suggestions and assets from this repository: https://github.com/haider-sama/Space-Invaders
-> [/description](https://codingchallenges.fyi/challenges/challenge-space-invaders)
+> [description](https://codingchallenges.fyi/challenges/challenge-space-invaders)
 
 #### A simple clone of the classic arcade game made with Vanilla Javascript, HTML5 and CSS.
 
